@@ -1,3 +1,4 @@
 # git-feature-flow-simulation
 
-line added on dev1
+1st line added on dev1
+2nd line added on dev2
